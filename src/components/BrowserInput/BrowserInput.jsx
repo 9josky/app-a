@@ -1,5 +1,5 @@
 import Search from "../SearchBar/SearchBar";
-import styles from "./BrowserInput.module.css";
+// import styles from "./BrowserInput.module.css";
 
 import { BsLockFill } from "react-icons/bs";
 

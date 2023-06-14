@@ -1,4 +1,4 @@
-import Header from "../../components/Header/Header";
+// import Header from "../../components/Header/Header";
 import Banner from "../../components/Banner/Banner";
 import SearchItem from "../Search/SearchItem";
 import Cards from "../CardTwo/CardTwo";

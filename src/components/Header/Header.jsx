@@ -1,4 +1,4 @@
-import Search from "../SearchBar/SearchBar";
+// import Search from "../SearchBar/SearchBar";
 import BrowserInput from "../BrowserInput/BrowserInput";
 import styles from "./Header.module.css";
 

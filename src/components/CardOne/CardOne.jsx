@@ -4,7 +4,7 @@ const Card = ({ title, description, icon, imgUrl, link }) => {
   return (
     <div className={styles.container}>
       <div className={styles.cardImageContainer}>
-        <img src={imgUrl} alt="image" />
+        <img src={imgUrl} alt="" />
       </div>
       <div className={styles.cardBody}>
         <h4>
